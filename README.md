@@ -1,2 +1,3 @@
-# jarpnet.com
-jarpnet.com website
+# Jarpnet
+## jarpnet.com
+This repository will be for jarpnet.com.
